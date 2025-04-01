@@ -113,7 +113,7 @@ To cite:
 ## ✉ Contact
 
 Email: [vinhatson@gmail.com](mailto:vinhatson@gmail.com)  
-Issues: [GitHub repository issues](https://github.com/your-username/Votranh-V8/issues)
+Issues: [GitHub repository issues](https://github.com/vinhatson/Votranh-V8/issues)
 
 ---
 
