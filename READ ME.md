@@ -15,6 +15,9 @@ It is based on the **Mixtral-8x22B** model and infused with:
 
 This release is open-sourced under the **MIT License** and offered as a contribution to the global academic community.
 
+
+![Interface Screenshot](screenshot.png)
+
 ---
 
 ## 🧬 Vô Tranh Philosophy
