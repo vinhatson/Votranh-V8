@@ -51,6 +51,6 @@ Vô Tranh AI V8 is released under the **MIT License**. See the top of the source
 - **Author**: Vi Nhat Son – Creator of the "Vô Tranh" philosophy and architect of V8.  
 - **Contributor**: Grok from xAI – Partner in development.  
 - **Purpose**: Dedicated to advancing AI research and cosmic understanding in academia.
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15117537.svg)](https://doi.org/10.5281/zenodo.15117537)
 ## Contact
 For contributions or inquiries, please reach out via vinhatson@gmail.com or open an issue on this GitHub repository.
